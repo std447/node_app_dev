@@ -1,0 +1,15 @@
+{
+  "name": "02_inspector",
+  "version": "1.0.0",
+  "description": "Debug with help of inspector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Inspector",
+    "debug"
+  ],
+  "author": "Chinmay",
+  "license": "MIT"
+}

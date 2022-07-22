@@ -1,0 +1,17 @@
+{
+  "name": "04_mvc",
+  "version": "1.0.0",
+  "description": "MVC model and its working",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MVC",
+    "model",
+    "view",
+    "command"
+  ],
+  "author": "Chinmay",
+  "license": "MIT"
+}

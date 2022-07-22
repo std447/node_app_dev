@@ -1,0 +1,15 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "Practicing given concepts - create http server, create event using event module, Enable debugger in VS code, invoke node inspector for debugging activities.",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "practice",
+    "exercise"
+  ],
+  "author": "Chinmay",
+  "license": "MIT"
+}

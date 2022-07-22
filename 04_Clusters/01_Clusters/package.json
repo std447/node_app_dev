@@ -1,0 +1,16 @@
+{
+  "name": "node_cluster",
+  "version": "1.0.0",
+  "description": "Create and learn about NodeJS `cluster`.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "cluster",
+    "multi-thread"
+  ],
+  "author": "Chinmay",
+  "license": "ISC"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "node_module",
+  "version": "1.0.0",
+  "description": "Create a node module and packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Create",
+    "package",
+    "module"
+  ],
+  "author": "Chinmay",
+  "license": "ISC"
+}
